@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  shared_config_files      = ["/home/mik/.aws/config"]
-  shared_credentials_files = ["/home/mik/.aws/credentials"]
+  shared_config_files      = ["/c/Users/Miguel/.aws/config"]
+  shared_credentials_files = ["/c/Users/Miguel/.aws/credentials"]
   profile = "mik"
  }
 
