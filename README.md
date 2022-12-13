@@ -1,7 +1,7 @@
 # terraform-vpc
 
 Terraform, Infrastructure as Code
-Script to create NDC Testing environment VPC
+Script to create AM VPC
 
 
 ![vpc](https://user-images.githubusercontent.com/43068656/195033072-be8f6a66-1796-45db-856f-db87e865e52a.jpg)
